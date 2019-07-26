@@ -1,2 +1,3 @@
-torch
-torchvision
+docopt==0.6.2
+torch==1.1.0
+torchvision==0.3.0
